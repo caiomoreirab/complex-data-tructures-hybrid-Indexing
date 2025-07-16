@@ -103,5 +103,3 @@ O projeto segue uma arquitetura modular, organizada nos seguintes pacotes:
 ## 🤝 Contribuição
 
 Este projeto foi desenvolvido individualmente por **Caio Bandeira Moreira** como parte da disciplina de Estrutura de Dados II.
-
-## 📄 Licença
